@@ -1,0 +1,14 @@
+# Environment:
+# os : ubuntu 16.04 64bit
+# software : skyeye 1.3.5
+# cross compile tool : arm-elf-
+
+
+# compile commond
+$ make
+
+# output file
+$ helloworld.bin
+
+# test
+$ skyeye -n -c s3c2410.conf -e helloworld.bin
