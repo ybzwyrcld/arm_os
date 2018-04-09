@@ -1,2 +1,2 @@
-# Arm_os
-writting arm os from the beginning
+# ArmOS
+Write Arm OS from The Beginning
